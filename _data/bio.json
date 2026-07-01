@@ -1,140 +1,143 @@
 {
   "basics": {
     "name": "Mantri Aditya",
-    "label": "Graduate",
+    "label": "Software Engineer",
     "picture": "https://github.com/vmantrip762000.png",
-    "email": "vmantrip@buffalo.edu",
-    "phone": "716-533-0788",
-    "website": "https://vmantrip762000.github.io",
-    "summary": "I am a Masters Graduate with M.S. in Data Science for Computer Science in the Department of Engineering and Applied Sciences at the University of Buffalo",
-    "location": { "address": "", "postalCode": "78613", "city": "Austin", "countryCode": "USA", "region": "Texas" },
+    "email": "mvsadi5@gmail.com",
+    "phone": "",
+    "website": "https://vmantrip.github.io",
+    "summary": "Software Engineer (Cloud Automation) with a Master of Science in Engineering Science and 2+ years of experience, seeking full-time roles focused on on-site Industrial Automation, Software Systems and Robotics Engineering.",
+    "location": { "address": "", "postalCode": "", "city": "Atlanta", "countryCode": "USA", "region": "Georgia" },
     "profiles": [
-      { "network": "github", "username": "vmantrip762000", "url": "http://github.com/vmantrip762000" },
-      { "network": "codechef", "username": "mvsadi5", "url": "https://www.codechef.com/users/mvsadi5" },
-      { "network": "leetcode", "username": "vmantrip", "url": "https://leetcode.com/u/vmantrip/" },
+      { "network": "github", "username": "vmantrip", "url": "http://github.com/vmantrip" },
       
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Deep Learning" },
-    { "name": "Data Structures and Algorithms" },
-    { "name": "System Design" },
-    { "name": "Competitive Programming" }
+    {
+      "name": "Industrial Automation"
+    },
+    {
+      "name": "Software Systems"
+    },
+    {
+      "name": "Robotics Engineering"
+    },
+    {
+      "name": "Cloud Automation"
+    }
   ],
   "skills": [
-
     {
-      "name": "Computer Science coursework",
-      "keywords": [ "Data Structures and Algorithms", "Computer Networks", "Software Development Life cycle", "Data Intesive computing", "RDBMS", 
-        "Linear Algebra", "Probability and Statistics" ]
-    },    
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Bash and Shell", "Python", "JavaScript", "C++", "SQL", "Java" ]
+      "name": "Industrial Automation",
+      "keywords": [
+        "PLCs",
+        "Motorized Drive Rollers (MDR)",
+        "Conveyors",
+        "Diverts",
+        "Vision Systems",
+        "Sensors"
+      ]
     },
     {
-      "name": "OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Robotics",
+      "keywords": [
+        "RTP (Ranger to Person) Robots",
+        "AGV Fleets",
+        "3D Camera Zone Control",
+        "Creo"
+      ]
     },
     {
-      "name": "Dev-Ops Technologies",
-      "keywords": [ "Kubernetes", "Jenkins", "Terraform", "Docker", "AWS", "Angular", "JIRA", "GCP", "bitbucket", "GitHub"]
+      "name": "Software",
+      "keywords": [
+        "Data Structures",
+        "Algorithms",
+        "REST APIs",
+        "Kafka Event Streams",
+        "Git",
+        "Minitab"
+      ]
     },
     {
-      "name": "Fronted Technologies",
-      "keywords": [ "LaTeX", "HTML", "CSS", "JavaScript", "Angular" ]
-    },
-    {
-      "name": "Cloud and Web Frameworks",
-      "keywords": [ "AWS", "Azure", "Spring MVC", "Spring Boot", "Spring Cloud", "Django" ]
+      "name": "Methodologies",
+      "keywords": [
+        "Six Sigma (Green Belt)",
+        "RCA",
+        "DMAIC",
+        "LOTO"
+      ]
     }
-    
   ],
   "education": [
     {
-      "institution": "University of Buffalo - SUNY, Buffalo, NY",
-      "area": "Data Science for Computer Science",
-      "studyType": "M.S.",
+      "institution": "University at Buffalo",
+      "area": "Engineering Science",
+      "studyType": "Master of Science",
       "startDate": "2022",
       "endDate": "2024",
-      "courses": [
-      ]
+      "courses": []
+    },
+    {
+      "institution": "Amrita University",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2018",
+      "endDate": "2022",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "University at Buffalo - Institute for Artificial Intelligence",
-      "position": "Apprentice Data Analyst",
+      "company": "Cloud Data Networks",
+      "position": "Software Engineer",
       "website": "",
-      "startDate": "3/24",
-      "endDate": "6/24",
-      "summary": "Created, analyzed and reported data based research and findings in AI tools surveys",
+      "startDate": "2025-10-01",
+      "endDate": "Present",
+      "summary": "Analyzed supply chain data and supported logistics platform improvements using SQL, Python, and SAP WM.",
       "highlights": [
-        "Maintain, update, and oversee official department website and database",
-        "Drive, design and build student-community survey projects for University at Buffalo","Train, build and deploy LLms from Hugging face models for summary generation and text classification tasks."
+        "Investigated supply chain anomalies using SQL and Python to extract inventory data.",
+        "Improved lead time adherence using deterministic and predictive models for demand forecasting.",
+        "Supported continuous improvement using Postman Testing."
       ]
     },
-    
-  ],
-  "volunteer": [
     {
-      "organization": "Google Developer Student Club",
-      "website": "https://gdsc.community.dev/university-at-buffalo-buffalo-united-states/",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Implemented Google style guide for production code in IDEs for large scale department contribution in CI/CD projects.",
+      "company": "GreyOrange",
+      "position": "Robotics Coordinator (contract - Supply Planning)",
+      "website": "https://www.greyorange.com/",
+      "startDate": "2024-11-01",
+      "endDate": "2025-10-01",
+      "summary": "Applied Six Sigma and Lean tools to drive process improvement across automated distribution workflows.",
       "highlights": [
-        
-        "Member, Project Contributor, UB GDSC, 2022-2024"
+        "Applied Green Belt Six Sigma and Lean Manufacturing techniques to conduct RCA on automated system faults.",
+        "Developed Power BI dashboards using Run Charts and Pareto Charts to optimize fleet availability.",
+        "Forecasted customer demand to prevent stockouts and reduce lead times across distribution operations."
       ]
     },
     {
-      "organization": "UB BlackStone LaunchPad",
-      "website": "https://www.buffalo.edu/entrepreneurship/about/welcome.html",
-      "position": "NGO volunteer for Technical - Innovation Sprint",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Develoeped data based solution to analyze patterns and extraxt statistical inferences from earthquake data. Recieved certificate award of 4th position for insightful data analysis.",
-      "highlights": [        
-        "Group Project Contributor, UB Blackstone LaunchPad, 2022-2024"
+      "company": "University at Buffalo",
+      "position": "Analyst - Process Improvement(Volunteer)",
+      "website": "https://www.buffalo.edu/ai-data-science.html",
+      "startDate": "2024-03-20",
+      "endDate": "2024-06-10",
+      "summary": "Conducted process capability studies and flow mapping to support supply chain and inventory planning.",
+      "highlights": [
+        "Spearheaded a Process Capability study using SPC charts to ensure reliable inputs for supply planning models.",
+        "Created detailed Flow Charts to map current vs. future state inspection processes and identify bottlenecks."
       ]
     }
   ],
-  "Personal Projects": [
+  "awards": [    
     {
-      "title": "Arithmetic Calculator",
-      "date": "2024",
-      "awarder": "C++, OOPs programmming, GitHub",
-      "summary": "Developed a calculator application in C++ utilizing OOPs principles to perform basic arithmetic operations."
-    },
-    {
-      "title": "Personal Portfolio in Ruby",
-      "year": "2024",
-      "awarder": "Ruby, CI/CD, JSON, Git, GitHub, LaTeX",
-      "summary": "Customized portfolio in Ruby, HTML and CSS for students and working professionals looking for career opportunities."
-    },
-    {
-      "title": "Infrastructure as Code (IaC) with Terraform - coursework project",
-      "year": "2023",
-      "awarder": "Python, Terraform, AWS Cloud, IAM users, Network diagrams, GitHub, ",
-      "summary": "Automated configuration of 6 EC2 instances according to network diagrams to reduce operation costs."
+      "title": "Six Sigma Green Belt",
+      "date": "2026",
+      "awarder": "The Council for Six Sigma Certification",
+      "summary": "Demonstrated proficiency in DMAIC methodology, statistical process control, and Lean tools including RCA, Pareto Analysis, and Fishbone diagrams. Certified to lead process improvement initiatives that reduce operational waste and enhance supply chain efficiency."
     }
   ],
-  "awards": [
+  "references": [
     {
-      "title": "Bachelors with distinction",
-      "date": "2022",
-      "awarder": "Amrita University, Coimbatore",
-      "summary": "Degree conferral to graduating batch of 2022 students who complete a rigorous high school curriculum with a minimum overall GPA of 3.4 at Amrita School of Engineering."
-    },
-    {
-      "title": "GATE 2022 - AIR 1465",
-      "year": "2022",
-      "awarder": "IIT Kharagpur",
-      "summary": "Scored  90 percentile in Graduate Aptitude Test Entrance in India in May 2022."
+      "name": "Available upon request"
     }
-  ],
-  
+  ]
 }
